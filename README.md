@@ -8,7 +8,9 @@ Due to file size limitations, the APK is hosted on Google Drive.
 🔹 Installation Instructions:
 
 1)Download the APK from the link above.
+
 2)Allow installation from unknown sources in device settings.
+
 3)Install and launch the app to start using the AR experience.
 
 🔹 Key Features
@@ -19,9 +21,11 @@ Optimized for Mobile Devices: Works on Android & iOS, making it easy for caregiv
 🔹 Technical Details
 1. Tools & Frameworks Used
 Unity 3D (Primary development environment)
-Vuforia Engine (For AR tracking and object recognition)
+
+2.Vuforia Engine (For AR tracking and object recognition)
 C# (For scripting AR interactions and video playback logic)
-2. Implementation Flow
+
+3. Implementation Flow
 Object Recognition:
 
 Uses Vuforia Image Target to detect pre-defined objects.
