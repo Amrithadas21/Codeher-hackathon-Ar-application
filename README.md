@@ -6,9 +6,9 @@ This repository contains an Augmented Reality (AR) application developed using U
 Due to file size limitations, the APK is hosted on Google Drive.
 🔹 Installation Instructions:
 
-Download the APK from the link above.
-Allow installation from unknown sources in device settings.
-Install and launch the app to start using the AR experience.
+1)Download the APK from the link above.
+2)Allow installation from unknown sources in device settings.
+3)Install and launch the app to start using the AR experience.
 
 🔹 Key Features
 Object Recognition with Vuforia: Uses Vuforia Image Targeting to recognize objects and trigger relevant videos.
