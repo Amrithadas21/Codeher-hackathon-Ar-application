@@ -1,5 +1,5 @@
 Augmented Reality Dementia Support Tool
-This repository contains an Augmented Reality (AR) application developed using Unity and Vuforia Engine, with C# as the primary scripting language. The tool is designed as a basic support system for dementia patients experiencing semantic memory loss. It enables patients to recall significant people in their lives by displaying videos of loved ones when scanning familiar objects using AR.
+This repository contains an Augmented Reality (AR) application developed using Unity and Vuforia Engine, with C# as the primary scripting language. The tool is designed as a basic support system for dementia patients experiencing semantic memory loss. It enables patients to recall significant people in their lives by displaying videos of loved ones when scanning familiar objects using AR.This was team project
 
 
 🔹 Download the APK
