@@ -31,17 +31,25 @@ This repository contains an **Augmented Reality (AR) application** developed usi
 - **ARCamera** (Handles Vuforia tracking)  
 - **ImageTarget** (Recognizes objects linked to videos)  
 - **VideoPlayer Component** (Plays stored videos on scan)  
-- **UI Canvas** (Displays the video interface)  
+- **UI Canvas** (Displays the video interface)
 
- 🔹 **Setup & Installation**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/AR-Dementia-Support.git
-   ```
-2. Open the project in **Unity (2021+ recommended)**.  
-3. Install **Vuforia Engine** via Unity Package Manager.  
-4. Add and configure **Vuforia License Key** in Unity.  
-5. Deploy the app to an **Android/iOS** device.  
+
+
+---
+
+## 🔹 **Download the APK**  
+Due to file size limitations, the APK is hosted on Google Drive.  
+📥 **[Download the APK here](YOUR_GOOGLE_DRIVE_LINK)**  
+
+🔹 **Installation Instructions:**  
+1. Download the APK from the link above.  
+2. Allow installation from unknown sources in device settings.  
+3. Install and launch the app to start using the AR experience.  
+
+---
+
+
+
 
 ## 🔹 **Future Enhancements**  
 - Support for **voice-based memory recall**  
